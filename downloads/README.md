@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [v2rayN-windows-arm64](./v2rayN-windows-arm64)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
